@@ -19,7 +19,7 @@ function overwriteBestCustomer(){
 }
 
 
-const LeastFavoriteCustomer = ''
+const LeastFavoriteCustomer = 'BOSCO'
 
 function changeLeastFavoriteCustomer(){
     LeastFavoriteCustomer="CAPTAIN"
